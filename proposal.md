@@ -18,12 +18,7 @@
 
 ### Modelo
 
-
-![Captura de pantalla 2024-04-07 104740.png](../_resources/Captura%20de%20pantalla%202024-04-07%20104740.png)
-
-
-
-
+[Modelo de dominio](https://drive.google.com/drive/u/2/folders/1-84xy5sd1ST-5caL5CvhPQQaqmWGQrEy)
 
 ## Alcance Funcional 
 
